@@ -122,6 +122,4 @@ fi
 
 PS1="$WHITE[$PURPLE\d$WHITE][$RED\@$WHITE][$BLUE\u$CYAN@$BROWN\h$GREEN \w$WHITE]$GREEN\$ $RESET"
 
-alias cd-p4v='cd /media/sf_D/p4v/'
 alias l='ls -a -l'
-alias cd-ceebs='cd /media/sf_D/p4v/BBCAdvent/BBC_Advent2016_CBeebies_main/skins/cbeebies-advent-2016/source/'
