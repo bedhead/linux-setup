@@ -2,7 +2,7 @@
 
 shopt -s dotglob
 
-echo "Setting up default got files"
+echo "Setting up default dot files"
 cp ./dotfiles/* ~/
 
 source ~/.bashrc
